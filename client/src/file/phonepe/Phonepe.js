@@ -8,7 +8,7 @@ const Phonepe = () => {
     const [loading2, setLoading2] = useState(false);
 
     const data ={
-        name: 'joshwa',
+        name: 'Joshwa',
         amount: 10,
         number: '7498608775',
         MUID: "MUID" + Date.now(),
